@@ -1,0 +1,20 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>controller</find>
+      <find>viewOptions</find>
+      <find>TCPHeader</find>
+      <find>wvPage</find>
+      <find>protect</find>
+      <find>vpnInterface</find>
+      <find>write</find>
+      <find>mServerAddress</find>
+      <find>Respon</find>
+      <find>VPN_ADDRESS</find>
+      <find>google.com.ua</find>
+      <find>Log.i</find>
+      <find>yahoo.com</find>
+      <find>Log.</find>
+    </findStrings>
+  </component>
+</application>

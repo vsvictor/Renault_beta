@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="amasport:war">
+    <output-path>$USER_HOME$/amasport_repo/target</output-path>
+    <root id="archive" name="amasport-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="amasport:war exploded" />
+    </root>
+  </artifact>
+</component>
