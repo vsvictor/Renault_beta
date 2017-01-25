@@ -1,0 +1,16 @@
+<application>
+  <component name="PasswordDatabase">
+    <option name="PASSWORDS">
+      <array>
+        <array>
+          <option value="8f3a5ccef80e1907745d58789c787388bec9b898cb5a94edbb9161edfc90b147" />
+          <option value="75290f224e3d3f569fbfaadd8a03ee5100ff54a2714a240974051f6729b87bd8" />
+        </array>
+        <array>
+          <option value="3df09c9d6e1fd2da14e3ef17e784ac7d8215b5b1dcb62c6b5463eee8c3cc8bfa" />
+          <option value="1c5f0c932cab3a27c1b160dc95ec82cc" />
+        </array>
+      </array>
+    </option>
+  </component>
+</application>
