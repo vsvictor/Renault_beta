@@ -15,6 +15,8 @@
       <find>Log.i</find>
       <find>yahoo.com</find>
       <find>Log.</find>
+      <find>mBytesReceived</find>
+      <find>mReceiveChannel</find>
     </findStrings>
   </component>
 </application>
