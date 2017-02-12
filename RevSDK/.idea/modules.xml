@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RevSDK.iml" filepath="$PROJECT_DIR$/RevSDK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RevSDKDemo/RevSDKDemo.iml" filepath="$PROJECT_DIR$/RevSDKDemo/RevSDKDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/revsdk/revsdk.iml" filepath="$PROJECT_DIR$/revsdk/revsdk.iml" />
+    </modules>
+  </component>
+</project>
